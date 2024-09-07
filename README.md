@@ -4,3 +4,30 @@
 - Anaconda: https://www.anaconda.com/download/
 - Git: https://git-scm.com/downloads
 - MLOPS Tool https://whimsical.com/
+
+
+
+## Git commands
+
+```bash
+git add .
+
+git commit -m "Updated"
+
+git push origin main
+```
+
+
+## How to create and activate environment 
+
+```bash
+conda create -n visa python=3.8 -y
+```
+
+```bash
+conda activate visa
+```
+
+```bash
+pip install -r reqiurements.txt    
+```
