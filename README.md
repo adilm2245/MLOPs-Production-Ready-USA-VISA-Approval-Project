@@ -4,6 +4,8 @@
 - Anaconda: https://www.anaconda.com/download/
 - Git: https://git-scm.com/downloads
 - MLOPS Tool https://whimsical.com/
+- MongoDB https://account.mongodb.com/account/login
+
 
 
 
